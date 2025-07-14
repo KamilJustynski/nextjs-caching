@@ -1,4 +1,4 @@
-# 🧠 Next.js Data Caching – Training Scope
+# 🧠 Next.js Data Caching
 
 This module covers key techniques for caching and performance optimization in Next.js:
 
